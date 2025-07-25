@@ -25,7 +25,7 @@ crud-mern/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/mern-crud-app.git
+git clone https://github.com/marryamabid/CRUD-MERN.git
 cd mern-crud-app
 
 
